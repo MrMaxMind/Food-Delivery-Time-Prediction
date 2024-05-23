@@ -4,7 +4,7 @@ Welcome to the Food Delivery Time Prediction project repository. This project ai
 
 ---
 
-![Food Delivery]("C:\Users\hp\Downloads\food_image.jpg")  <!-- Replace with your image URL or path -->
+![Food Delivery]("C:\Users\hp\Downloads\food_image.jpg")  <!-- "C:\Users\hp\Downloads\food_image.jpg" -->
 
 ## Overview
 
