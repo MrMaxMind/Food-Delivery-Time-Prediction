@@ -4,6 +4,8 @@ Welcome to the Food Delivery Time Prediction project repository. This project ai
 
 ---
 
+![Food Delivery](https://example.com/food_delivery_image.jpg)  <!-- Replace with your image URL or path -->
+
 ## Overview
 
 This project involves predicting the delivery time for food orders based on various factors such as delivery person details, weather conditions, traffic density, and more. The dataset used for training and testing contains information about past food deliveries.
