@@ -4,7 +4,10 @@ Welcome to the Food Delivery Time Prediction project repository. This project ai
 
 ---
 
-![Food Delivery](./food_image.jpg)
+<div align="center">
+  <img src="./food_image.jpg" alt="Food Delivery" style="border:none;">
+</div>
+
 
 ## Overview
 
