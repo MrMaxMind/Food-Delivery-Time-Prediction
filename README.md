@@ -4,7 +4,7 @@ Welcome to the Food Delivery Time Prediction project repository. This project ai
 
 ---
 
-![Food Delivery](C:/Users/hp/Downloads/food_image.jpg) 
+![Food Delivery](./images/food_image.jpg)
 
 ## Overview
 
