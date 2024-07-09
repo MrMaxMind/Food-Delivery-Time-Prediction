@@ -35,7 +35,7 @@ This project involves predicting the delivery time for food orders based on vari
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Food-Delivery-Time-Prediction.git
+   git clone https://github.com/MrMaxMind/Food-Delivery-Time-Prediction.git
    cd Food-Delivery-Time-Prediction
    
 2. **Install the required packages**:
